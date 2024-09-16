@@ -118,7 +118,7 @@ const Clients = () => {
               </p>
             </div>
           </div>
-          <p className="text-md text-gray-600 py-6 darK:text-gray-100">
+          <p className="text-md text-gray-600 py-6 dark:text-gray-100">
             The WP Estate team did an outstanding job helping me buy my first
             home. The high level of service and dedication is top-notch.
           </p>
