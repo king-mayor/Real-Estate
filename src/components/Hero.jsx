@@ -72,7 +72,7 @@ const Hero = () => {
         </div>
         <div>
           <button
-            className="uppercase text-gray-100 bg-red-600 py-3 px-10 cursor-pointer font-bold rounded-lg hover:bg-black border-none outline-none"
+            className="uppercase text-gray-100 bg-red-600 py-3 px-10 cursor-pointer font-bold rounded-lg hover:bg-black dark:hover:bg-red-700 border-none outline-none"
             data-aos="zoom-in-up"
             data-aos-duration="2000"
           >
