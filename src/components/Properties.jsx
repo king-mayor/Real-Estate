@@ -25,7 +25,7 @@ const Properties = () => {
 
       <div className="flex lg:flex-row flex-col items-center justify-center  gap-8 py-8">
         <div className="1st" data-aos="zoom-in-up" data-aos-duration="2000">
-          <div className="bg-[url('src/assets/prop1.webp')] h-72 w-[300px] bg-cover bg-no-repeat bg-center relative rounded-t-2xl">
+          <div className="bg-[url('../src/assets/prop1.webp')] h-72 w-[300px] bg-cover bg-no-repeat bg-center relative rounded-t-2xl">
             <div className="flex justify-between px-2 py-6">
               <div>
                 <button className="text-gray-100 bg-red-600 px-4 py-1 cursor-pointer border-none outline-none rounded-2xl capitalize hover:bg-black">
@@ -119,7 +119,7 @@ const Properties = () => {
           </div>
         </div>
         <div className="2nd" data-aos="zoom-in-up" data-aos-duration="2000">
-          <div className="bg-[url('src/assets/prop2.webp')] h-72 w-[300px] bg-cover bg-no-repeat bg-center relative rounded-t-2xl">
+          <div className="bg-[url('../src/assets/prop2.webp')] h-72 w-[300px] bg-cover bg-no-repeat bg-center relative rounded-t-2xl">
             <div className="flex justify-between px-2 py-6">
               <div>
                 <button className="text-gray-100 bg-red-600 px-4 py-1 cursor-pointer border-none outline-none rounded-2xl capitalize hover:bg-black">
@@ -213,7 +213,7 @@ const Properties = () => {
           </div>
         </div>
         <div className="3rd" data-aos="zoom-in-up" data-aos-duration="2000">
-          <div className="bg-[url('src/assets/prop3.webp')] h-72 w-[300px] bg-cover bg-no-repeat bg-center relative rounded-t-2xl">
+          <div className="bg-[url('../src/assets/prop3.webp')] h-72 w-[300px] bg-cover bg-no-repeat bg-center relative rounded-t-2xl">
             <div className="flex justify-between px-2 py-6">
               <div>
                 <button className="text-gray-100 bg-red-600 px-4 py-1 cursor-pointer border-none outline-none rounded-2xl capitalize hover:bg-black">
@@ -311,7 +311,7 @@ const Properties = () => {
       {/* {Second Row of properties} */}
       <div className="flex lg:flex-row flex-col items-center justify-center  gap-8 py-8">
         <div className="1st" data-aos="zoom-in-up" data-aos-duration="2000">
-          <div className="bg-[url('src/assets/prop4.webp')] h-72 w-[300px] bg-cover bg-no-repeat bg-center relative rounded-t-2xl">
+          <div className="bg-[url('../src/assets/prop4.webp')] h-72 w-[300px] bg-cover bg-no-repeat bg-center relative rounded-t-2xl">
             <div className="flex justify-between px-2 py-6">
               <div>
                 <button className="text-gray-100 bg-red-600 px-4 py-1 cursor-pointer border-none outline-none rounded-2xl capitalize hover:bg-black">
@@ -405,7 +405,7 @@ const Properties = () => {
           </div>
         </div>
         <div className="2nd" data-aos="zoom-in-up" data-aos-duration="2000">
-          <div className="bg-[url('src/assets/prop5.webp')] h-72 w-[300px] bg-cover bg-no-repeat bg-center relative rounded-t-2xl">
+          <div className="bg-[url('../src/assets/prop5.webp')] h-72 w-[300px] bg-cover bg-no-repeat bg-center relative rounded-t-2xl">
             <div className="flex justify-between px-2 py-6">
               <div>
                 <button className="text-gray-100 bg-red-600 px-4 py-1 cursor-pointer border-none outline-none rounded-2xl capitalize hover:bg-black">
@@ -497,7 +497,7 @@ const Properties = () => {
           </div>
         </div>
         <div className="3rd" data-aos="zoom-in-up" data-aos-duration="2000">
-          <div className="bg-[url('src/assets/prop6.webp')] h-72 w-[300px] bg-cover bg-no-repeat bg-center relative rounded-t-2xl">
+          <div className="bg-[url('../src/assets/prop6.webp')] h-72 w-[300px] bg-cover bg-no-repeat bg-center relative rounded-t-2xl">
             <div className="flex justify-between px-2 py-6">
               <div>
                 <button className="text-gray-100 bg-red-600 px-4 py-1 cursor-pointer border-none outline-none rounded-2xl capitalize hover:bg-black">
