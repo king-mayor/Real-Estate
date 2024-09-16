@@ -1,6 +1,7 @@
 import React from "react";
 import Clients from "./Clients";
 import Contact from "./Contact";
+
 import Footer from "./Footer";
 import Hero from "./Hero";
 import Navbar from "./Navbar";
@@ -10,7 +11,7 @@ import Services from "./Services";
 
 const Home = () => {
   return (
-    <div className="bg-gray-100 overflow-x-hidden">
+    <div className="bg-gray-100 overflow-x-hidden dark:bg-black">
       <Navbar />
       <Hero />
       <Properties />

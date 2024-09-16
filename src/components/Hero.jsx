@@ -25,9 +25,9 @@ const Hero = () => {
         </div>
       </div>
       {/* // {Hero Form} */}
-      <div className="flex justify-center lg:flex-row flex-col gap-16 items-center bg-white mx-10 rounded-2xl py-6">
+      <div className="flex justify-center lg:flex-row flex-col gap-16 items-center bg-white dark:bg-slate-800 mx-10 rounded-2xl py-6">
         <div className="1st" data-aos="zoom-in-up" data-aos-duration="2000">
-          <h2 className="text-black font-semibold text-xl uppercase py-2">
+          <h2 className="text-black dark:text-white font-semibold text-xl uppercase py-2">
             location
           </h2>
           <input
@@ -37,7 +37,7 @@ const Hero = () => {
           />
         </div>
         <div className="2nd" data-aos="zoom-in-up" data-aos-duration="2000">
-          <h2 className="text-black font-semibold text-xl uppercase py-2">
+          <h2 className="text-black dark:text-white font-semibold text-xl uppercase py-2">
             type
           </h2>
           <select
@@ -52,7 +52,7 @@ const Hero = () => {
           </select>
         </div>
         <div className="3rd" data-aos="zoom-in-up" data-aos-duration="2000">
-          <h2 className="text-black font-semibold text-xl uppercase py-2">
+          <h2 className="text-black dark:text-white font-semibold text-xl uppercase py-2">
             category
           </h2>
           <select
@@ -95,25 +95,27 @@ const Hero = () => {
           data-aos-duration="2000"
         >
           <h3 className="text-red-600 text-md">WHO WE ARE</h3>
-          <h2 className="lg:text-4xl text-2xl font-bold py-6">
+          <h2 className="lg:text-4xl text-2xl font-bold py-6 dark:text-white">
             We help clients buy and sell houses since 1989
           </h2>
-          <p className="lg:text-2xl text-lg text-gray-600">
+          <p className="lg:text-2xl text-lg text-gray-600 dark:text-white">
             Lorem ipsum dolor sit amet consectetur, adipisicing elit. Iure quam
             eaque inventore voluptatum rem consectetur quae magni optio quis
             incidunt?
           </p>
-          <button className="uppercase text-gray-100 bg-red-600 py-3 px-10 cursor-pointer font-bold rounded-lg hover:bg-black border-none outline-none my-4">
+          <button className="uppercase text-gray-100 bg-red-600 py-3 px-10 cursor-pointer font-bold rounded-lg hover:bg-black dark:hover:bg-slate-800 border-none outline-none my-4">
             view more
           </button>
         </div>
       </div>
       {/* {Third Hero Section} */}
-      <div className="bg-red-100 rounded-2xl mx-12 py-12 my-10">
+      <div className="bg-red-100 dark:bg-slate-800 rounded-2xl mx-12 py-12 my-10">
         <div className="flex lg:justify-center lg:flex-row flex-col items-center px-12 gap-12">
           <div data-aos="zoom-in-up" data-aos-duration="2000">
-            <h3 className="text-red-600 text-md uppercase">popular areas</h3>
-            <h2 className="lg:text-4xl text-2xl font-bold">
+            <h3 className="text-red-600 text-md uppercase dark:text-white">
+              popular areas
+            </h3>
+            <h2 className="lg:text-4xl text-2xl font-bold dark:text-white">
               Explore most popular areas
             </h2>
           </div>
@@ -147,10 +149,12 @@ const Hero = () => {
             data-aos-duration="2000"
           >
             <div>
-              <h2 className="lg:text-7xl text-4xl font-bold">5k</h2>
+              <h2 className="lg:text-7xl text-4xl font-bold dark:text-gray-100">
+                5k
+              </h2>
             </div>
             <div>
-              <h4 className="text-gray-600 lg:text-xl text-md uppercase">
+              <h4 className="text-gray-600 dark:text-gray-100 lg:text-xl text-md uppercase">
                 Active<br></br> listings
               </h4>
             </div>
@@ -161,10 +165,12 @@ const Hero = () => {
             data-aos-duration="2000"
           >
             <div>
-              <h2 className="lg:text-7xl text-4xl font-bold">9k</h2>
+              <h2 className="lg:text-7xl text-4xl font-bold dark:text-gray-100">
+                9k
+              </h2>
             </div>
             <div>
-              <h4 className="text-gray-600 lg:text-xl text-md uppercase">
+              <h4 className="text-gray-600 dark:text-gray-100 lg:text-xl text-md uppercase">
                 solid<br></br> listings
               </h4>
             </div>
@@ -175,10 +181,12 @@ const Hero = () => {
             data-aos-duration="2000"
           >
             <div>
-              <h2 className="lg:text-7xl text-4xl font-bold">6k</h2>
+              <h2 className="lg:text-7xl text-4xl font-bold dark:text-gray-100">
+                6k
+              </h2>
             </div>
             <div>
-              <h4 className="text-gray-600 lg:text-xl text-md uppercase">
+              <h4 className="text-gray-600 dark:text-gray-100 lg:text-xl text-md uppercase">
                 clients<br></br>we've served
               </h4>
             </div>

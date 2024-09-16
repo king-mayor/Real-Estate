@@ -19,8 +19,12 @@ const Properties = () => {
         data-aos-duration="2000"
       >
         <h2 className="text-red-600 text-lg">PROPERTIES</h2>
-        <h3 className="text-3xl font-bold text-black">Explore the latest</h3>
-        <h3 className="text-3xl font-bold text-black">properties available</h3>
+        <h3 className="text-3xl font-bold text-black dark:text-gray-100">
+          Explore the latest
+        </h3>
+        <h3 className="text-3xl font-bold text-black dark:text-gray-100">
+          properties available
+        </h3>
       </div>
 
       <div className="flex lg:flex-row flex-col items-center justify-center  gap-8 py-8">
@@ -59,13 +63,13 @@ const Properties = () => {
             </div>
           </div>
           {/* white background section */}
-          <div className="w-[300px] bg-white rounded-b-2xl p-6">
+          <div className="w-[300px] bg-white dark:bg-slate-800 rounded-b-2xl p-6">
             <div>
-              <h2 className="text-xl font-bold py-2">
+              <h2 className="text-xl font-bold py-2 dark:text-gray-100">
                 Villa with Amazing View
               </h2>
               <h2 className="text-3xl text-red-600 font-bold">$ 213.23</h2>
-              <p className="text-md py-2">
+              <p className="text-md py-2 dark:text-gray-100">
                 Beautiful, updated, ground level Co-op apartment in the
                 desirable Bay Terrace neighborhood
               </p>
@@ -76,19 +80,19 @@ const Properties = () => {
                   <div className="text-red-600 font-bold text-2xl">
                     <LuConstruction />
                   </div>
-                  <div className="text-md">3</div>
+                  <div className="text-md dark:text-gray-100">3</div>
                 </div>
                 <div className="flex gap-2">
                   <div className="text-red-600 font-bold text-2xl">
                     <FaBed />
                   </div>
-                  <div className="text-md">4</div>
+                  <div className="text-md dark:text-gray-100">4</div>
                 </div>
                 <div className="flex gap-2">
                   <div className="text-red-600 font-bold text-2xl">
                     <HiMiniSquares2X2 />
                   </div>
-                  <div className="text-md">250 sq ft</div>
+                  <div className="text-md dark:text-gray-100">250 sq ft</div>
                 </div>
               </div>
             </div>
@@ -100,7 +104,7 @@ const Properties = () => {
                   <FaUserCircle />
                 </div>
                 <div>
-                  <p>Alice Adams</p>
+                  <p className="dark:text-gray-100">Alice Adams</p>
                 </div>
               </div>
               <div className="flex items-center gap-2">
@@ -155,11 +159,13 @@ const Properties = () => {
             </div>
           </div>
           {/* white background section */}
-          <div className="w-[300px] bg-white rounded-b-2xl p-6">
+          <div className="w-[300px] bg-white dark:bg-slate-800 rounded-b-2xl p-6">
             <div>
-              <h2 className="text-xl font-bold py-2">Townhouse for Sale</h2>
+              <h2 className="text-xl font-bold py-2 dark:text-gray-100">
+                Townhouse for Sale
+              </h2>
               <h2 className="text-3xl text-red-600 font-bold">$ 345.18</h2>
-              <p className="text-md py-2">
+              <p className="text-md py-2 dark:text-gray-100">
                 Beautiful, updated, ground level Co-op apartment in the
                 desirable Bay Terrace neighborhood
               </p>
@@ -170,19 +176,19 @@ const Properties = () => {
                   <div className="text-red-600 font-bold text-2xl">
                     <LuConstruction />
                   </div>
-                  <div className="text-md">3</div>
+                  <div className="text-md text-gray-100">3</div>
                 </div>
                 <div className="flex gap-2">
                   <div className="text-red-600 font-bold text-2xl">
                     <FaBed />
                   </div>
-                  <div className="text-md">4</div>
+                  <div className="text-md text-gray-100">4</div>
                 </div>
                 <div className="flex gap-2">
                   <div className="text-red-600 font-bold text-2xl">
                     <HiMiniSquares2X2 />
                   </div>
-                  <div className="text-md">450 sq ft</div>
+                  <div className="text-md text-gray-100">450 sq ft</div>
                 </div>
               </div>
             </div>
@@ -194,7 +200,7 @@ const Properties = () => {
                   <FaUserCircle />
                 </div>
                 <div>
-                  <p>Drew Alice</p>
+                  <p className="dark:text-gray-100">Drew Alice</p>
                 </div>
               </div>
               <div className="flex items-center gap-2">
@@ -247,13 +253,13 @@ const Properties = () => {
             </div>
           </div>
           {/* white background section */}
-          <div className="w-[300px] bg-white rounded-b-2xl p-6">
+          <div className="w-[300px] bg-white dark:bg-slate-800 rounded-b-2xl p-6">
             <div>
-              <h2 className="text-xl font-bold py-2">
+              <h2 className="text-xl font-bold py-2 dark:text-gray-100">
                 Duplex sea facing for rent
               </h2>
               <h2 className="text-3xl text-red-600 font-bold">$ 652.18</h2>
-              <p className="text-md py-2">
+              <p className="text-md py-2 dark:text-gray-100">
                 Beautiful, updated, ground level Co-op apartment in the
                 desirable Bay Terrace neighborhood
               </p>
@@ -264,19 +270,19 @@ const Properties = () => {
                   <div className="text-red-600 font-bold text-2xl">
                     <LuConstruction />
                   </div>
-                  <div className="text-md">3</div>
+                  <div className="text-md dark:text-gray-100">3</div>
                 </div>
                 <div className="flex gap-2">
                   <div className="text-red-600 font-bold text-2xl">
                     <FaBed />
                   </div>
-                  <div className="text-md">4</div>
+                  <div className="text-md dark:text-gray-100">4</div>
                 </div>
                 <div className="flex gap-2">
                   <div className="text-red-600 font-bold text-2xl">
                     <HiMiniSquares2X2 />
                   </div>
-                  <div className="text-md">129 sq ft</div>
+                  <div className="text-md dark:text-gray-100">129 sq ft</div>
                 </div>
               </div>
             </div>
@@ -288,7 +294,7 @@ const Properties = () => {
                   <FaUserCircle />
                 </div>
                 <div>
-                  <p>Fursi Bam</p>
+                  <p className="dark:text-gray-100">Fursi Bam</p>
                 </div>
               </div>
               <div className="flex items-center gap-2">
@@ -347,11 +353,13 @@ const Properties = () => {
             </div>
           </div>
           {/* white background section */}
-          <div className="w-[300px] bg-white rounded-b-2xl p-6">
+          <div className="w-[300px] bg-white dark:bg-slate-800 rounded-b-2xl p-6">
             <div>
-              <h2 className="text-xl font-bold py-2">Villa with Side View</h2>
+              <h2 className="text-xl font-bold py-2 dark:text-gray-100">
+                Villa with Side View
+              </h2>
               <h2 className="text-3xl text-red-600 font-bold">$ 876.13</h2>
-              <p className="text-md py-2">
+              <p className="text-md py-2 dark:text-gray-100">
                 Beautiful, updated, ground level Co-op apartment in the
                 desirable Bay Terrace neighborhood
               </p>
@@ -362,19 +370,19 @@ const Properties = () => {
                   <div className="text-red-600 font-bold text-2xl">
                     <LuConstruction />
                   </div>
-                  <div className="text-md">3</div>
+                  <div className="text-md dark:text-gray-100">3</div>
                 </div>
                 <div className="flex gap-2">
                   <div className="text-red-600 font-bold text-2xl">
                     <FaBed />
                   </div>
-                  <div className="text-md">4</div>
+                  <div className="text-md dark:text-gray-100">4</div>
                 </div>
                 <div className="flex gap-2">
                   <div className="text-red-600 font-bold text-2xl">
                     <HiMiniSquares2X2 />
                   </div>
-                  <div className="text-md">453 sq ft</div>
+                  <div className="text-md dark:text-gray-100">453 sq ft</div>
                 </div>
               </div>
             </div>
@@ -386,7 +394,7 @@ const Properties = () => {
                   <FaUserCircle />
                 </div>
                 <div>
-                  <p>Neon Adams</p>
+                  <p className="dark:text-gray-100">Neon Adams</p>
                 </div>
               </div>
               <div className="flex items-center gap-2">
@@ -439,11 +447,13 @@ const Properties = () => {
             </div>
           </div>
           {/* white background section */}
-          <div className="w-[300px] bg-white rounded-b-2xl p-6">
+          <div className="w-[300px] bg-white dark:bg-slate-800 rounded-b-2xl p-6">
             <div>
-              <h2 className="text-xl font-bold py-2">Awesome villa for rent</h2>
+              <h2 className="text-xl font-bold py-2 dark:text-gray-100">
+                Awesome villa for rent
+              </h2>
               <h2 className="text-3xl text-red-600 font-bold">$ 341.83</h2>
-              <p className="text-md py-2">
+              <p className="text-md py-2 dark:text-gray-100">
                 Beautiful, updated, ground level Co-op apartment in the
                 desirable Bay Terrace neighborhood
               </p>
@@ -454,19 +464,19 @@ const Properties = () => {
                   <div className="text-red-600 font-bold text-2xl">
                     <LuConstruction />
                   </div>
-                  <div className="text-md">3</div>
+                  <div className="text-md text-gray-100">3</div>
                 </div>
                 <div className="flex gap-2">
                   <div className="text-red-600 font-bold text-2xl">
                     <FaBed />
                   </div>
-                  <div className="text-md">4</div>
+                  <div className="text-md text-gray-100">4</div>
                 </div>
                 <div className="flex gap-2">
                   <div className="text-red-600 font-bold text-2xl">
                     <HiMiniSquares2X2 />
                   </div>
-                  <div className="text-md">320 sq ft</div>
+                  <div className="text-md text-gray-100">320 sq ft</div>
                 </div>
               </div>
             </div>
@@ -478,7 +488,7 @@ const Properties = () => {
                   <FaUserCircle />
                 </div>
                 <div>
-                  <p>Firari Alice</p>
+                  <p className="dark:text-gray-100">Firari Alice</p>
                 </div>
               </div>
               <div className="flex items-center gap-2">
@@ -531,11 +541,13 @@ const Properties = () => {
             </div>
           </div>
           {/* white background section */}
-          <div className="w-[300px] bg-white rounded-b-2xl p-6">
+          <div className="w-[300px] bg-white dark:bg-slate-800 rounded-b-2xl p-6">
             <div>
-              <h2 className="text-xl font-bold py-2">Street Farm for sale</h2>
+              <h2 className="text-xl font-bold py-2 dark:text-gray-100">
+                Street Farm for sale
+              </h2>
               <h2 className="text-3xl text-red-600 font-bold">$ 675.23</h2>
-              <p className="text-md py-2">
+              <p className="text-md py-2 dark:text-gray-100">
                 Beautiful, updated, ground level Co-op apartment in the
                 desirable Bay Terrace neighborhood
               </p>
@@ -546,19 +558,19 @@ const Properties = () => {
                   <div className="text-red-600 font-bold text-2xl">
                     <LuConstruction />
                   </div>
-                  <div className="text-md">3</div>
+                  <div className="text-md dark:text-gray-100">3</div>
                 </div>
                 <div className="flex gap-2">
                   <div className="text-red-600 font-bold text-2xl">
                     <FaBed />
                   </div>
-                  <div className="text-md">4</div>
+                  <div className="text-md dark:text-gray-100">4</div>
                 </div>
                 <div className="flex gap-2">
                   <div className="text-red-600 font-bold text-2xl">
                     <HiMiniSquares2X2 />
                   </div>
-                  <div className="text-md">340 sq ft</div>
+                  <div className="text-md dark:text-gray-100">340 sq ft</div>
                 </div>
               </div>
             </div>
@@ -570,7 +582,7 @@ const Properties = () => {
                   <FaUserCircle />
                 </div>
                 <div>
-                  <p>Jordan Bram</p>
+                  <p className="dark:text-gray-100">Jordan Bram</p>
                 </div>
               </div>
               <div className="flex items-center gap-2">
@@ -591,7 +603,7 @@ const Properties = () => {
       </div>
       {/* {Read More} */}
       <div className="flex justify-center py-6">
-        <button className="text-white bg-red-600 cursor-pointer hover:bg-black border-none outline-none py-4 px-8 rounded-xl uppercase font-semibold">
+        <button className="text-white bg-red-600 cursor-pointer hover:bg-black dark:hover:bg-slate-800 border-none outline-none py-4 px-8 rounded-xl uppercase font-semibold">
           read more
         </button>
       </div>
