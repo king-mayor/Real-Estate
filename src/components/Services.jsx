@@ -30,7 +30,7 @@ const Services = () => {
             </div>
             <h2 className="text-black text-2xl py-4">Sell your home</h2>
             <p className="text-lg text-gray-600 py-4">
-              We sell your home at the best market price
+              We sell your home at the best market price.
             </p>
             <Link className="text-red-600 uppercase text-md font-bold border-b-2 border-red-600">
               read more
@@ -46,7 +46,7 @@ const Services = () => {
             </div>
             <h2 className="text-black text-2xl py-4">Home loans</h2>
             <p className="text-lg text-gray-600 py-4">
-              We offer you free consultancy to get a loan
+              We offer you free consultancy to get a loan.
             </p>
             <Link className="text-red-600 uppercase text-md font-bold border-b-2 border-red-600">
               read more
@@ -62,7 +62,7 @@ const Services = () => {
             </div>
             <h2 className="text-black text-2xl py-4">Legal services</h2>
             <p className="text-lg text-gray-600 py-4">
-              Expert legal help for all related property items
+              Expert legal help for all related property items.
             </p>
             <Link className="text-red-600 uppercase text-md font-bold border-b-2 border-red-600">
               read more
@@ -83,7 +83,7 @@ const Services = () => {
             </div>
             <h2 className="text-black text-2xl py-4">Home inspection</h2>
             <p className="text-lg text-gray-600 py-4">
-              We make sure you get what you were promised
+              We make sure you get what you were promised.
             </p>
             <Link className="text-red-600 uppercase text-md font-bold border-b-2 border-red-600">
               read more
@@ -99,7 +99,7 @@ const Services = () => {
             </div>
             <h2 className="text-black text-2xl py-4">Evaluation</h2>
             <p className="text-lg text-gray-600 py-4">
-              We offer you free evaluation to get a mortgage loan
+              We offer you free evaluation to get a mortgage loan.
             </p>
             <Link className="text-red-600 uppercase text-md font-bold border-b-2 border-red-600">
               read more
@@ -115,7 +115,7 @@ const Services = () => {
             </div>
             <h2 className="text-black text-2xl py-4">Photoshoot</h2>
             <p className="text-lg text-gray-600 py-4">
-              We prepare your home visual presentation
+              We prepare your home visual presentation.
             </p>
             <Link className="text-red-600 uppercase text-md font-bold border-b-2 border-red-600">
               read more

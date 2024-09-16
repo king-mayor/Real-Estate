@@ -32,7 +32,7 @@ const Clients = () => {
           </div>
           <p className="text-md text-gray-600 py-6">
             The WP Estate team did an outstanding job helping me buy my first
-            home. The high level of service and dedication
+            home. The high level of service and dedication is top-notch.
           </p>
           <div className="flex gap-2">
             <div>
@@ -68,7 +68,7 @@ const Clients = () => {
           </div>
           <p className="text-md text-gray-600 py-6">
             The WP Estate team did an outstanding job helping me buy my first
-            home. The high level of service and dedication
+            home. The high level of service and dedication is top-notch.
           </p>
           <div className="flex gap-2">
             <div>
@@ -104,7 +104,7 @@ const Clients = () => {
           </div>
           <p className="text-md text-gray-600 py-6">
             The WP Estate team did an outstanding job helping me buy my first
-            home. The high level of service and dedication
+            home. The high level of service and dedication is top-notch.
           </p>
           <div className="flex gap-2">
             <div>
@@ -143,7 +143,7 @@ const Clients = () => {
           </div>
           <p className="text-md text-gray-600 py-6">
             The WP Estate team did an outstanding job helping me buy my first
-            home. The high level of service and dedication
+            home. The high level of service and dedication is top-notch.
           </p>
           <div className="flex gap-2">
             <div>
@@ -179,7 +179,7 @@ const Clients = () => {
           </div>
           <p className="text-md text-gray-600 py-6">
             The WP Estate team did an outstanding job helping me buy my first
-            home. The high level of service and dedication
+            home. The high level of service and dedication is top-notch.
           </p>
           <div className="flex gap-2">
             <div>
@@ -215,7 +215,7 @@ const Clients = () => {
           </div>
           <p className="text-md text-gray-600 py-6">
             The WP Estate team did an outstanding job helping me buy my first
-            home. The high level of service and dedication
+            home. The high level of service and dedication is top-notch.
           </p>
           <div className="flex gap-2">
             <div>
