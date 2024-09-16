@@ -112,9 +112,7 @@ const Hero = () => {
       <div className="bg-red-100 dark:bg-slate-800 rounded-2xl mx-12 py-12 my-10">
         <div className="flex lg:justify-center lg:flex-row flex-col items-center px-12 gap-12">
           <div data-aos="zoom-in-up" data-aos-duration="2000">
-            <h3 className="text-red-600 text-md uppercase dark:text-white">
-              popular areas
-            </h3>
+            <h3 className="text-red-600 text-md uppercase">popular areas</h3>
             <h2 className="lg:text-4xl text-2xl font-bold dark:text-white">
               Explore most popular areas
             </h2>
