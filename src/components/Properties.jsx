@@ -176,19 +176,19 @@ const Properties = () => {
                   <div className="text-red-600 font-bold text-2xl">
                     <LuConstruction />
                   </div>
-                  <div className="text-md text-gray-100">3</div>
+                  <div className="text-md dark:text-gray-100">3</div>
                 </div>
                 <div className="flex gap-2">
                   <div className="text-red-600 font-bold text-2xl">
                     <FaBed />
                   </div>
-                  <div className="text-md text-gray-100">4</div>
+                  <div className="text-md dark:text-gray-100">4</div>
                 </div>
                 <div className="flex gap-2">
                   <div className="text-red-600 font-bold text-2xl">
                     <HiMiniSquares2X2 />
                   </div>
-                  <div className="text-md text-gray-100">450 sq ft</div>
+                  <div className="text-md dark:text-gray-100">450 sq ft</div>
                 </div>
               </div>
             </div>
@@ -464,19 +464,19 @@ const Properties = () => {
                   <div className="text-red-600 font-bold text-2xl">
                     <LuConstruction />
                   </div>
-                  <div className="text-md text-gray-100">3</div>
+                  <div className="text-md dark:text-gray-100">3</div>
                 </div>
                 <div className="flex gap-2">
                   <div className="text-red-600 font-bold text-2xl">
                     <FaBed />
                   </div>
-                  <div className="text-md text-gray-100">4</div>
+                  <div className="text-md dark:text-gray-100">4</div>
                 </div>
                 <div className="flex gap-2">
                   <div className="text-red-600 font-bold text-2xl">
                     <HiMiniSquares2X2 />
                   </div>
-                  <div className="text-md text-gray-100">320 sq ft</div>
+                  <div className="text-md dark:text-gray-100">320 sq ft</div>
                 </div>
               </div>
             </div>
