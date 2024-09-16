@@ -12,7 +12,7 @@ import prop8 from "../assets/prop8.jpg";
 const Footer = () => {
   return (
     <div>
-      <div className="bg-slate-800 flex lg:justify-around lg:flex-row flex-col  md:items-start sm:items-start py-20 px-6">
+      <div className="bg-slate-800 flex lg:justify-around lg:flex-row flex-col  md:items-start sm:items-start py-20 px-6 gap-10">
         <div
           className="lg:w-1/3 w-full"
           data-aos="zoom-in-up"

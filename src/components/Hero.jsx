@@ -13,7 +13,7 @@ const Hero = () => {
             data-aos="zoom-in-up"
             data-aos-duration="2000"
           >
-            <h2 className="text-gray-200 lg:text-7xl md:text-5xl text-3xl ">
+            <h2 className="text-gray-200 lg:text-7xl md:text-5xl text-3xl font-bold">
               Find your next Home in Las Vegas
             </h2>
             <p className="lg:text-2xl text-lg text-white py-8">
