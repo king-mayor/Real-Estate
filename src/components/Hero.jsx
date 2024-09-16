@@ -7,7 +7,7 @@ const Hero = () => {
   return (
     <>
       <div className="mx-10 py-10 pt-24">
-        <div className="bg-[url('src/assets/hero1.webp')] h-[600px] w-full bg-cover bg-no-repeat bg-center rounded-lg relative">
+        <div className="bg-[url('./src/assets/hero1.webp')] h-[600px] w-full bg-cover bg-no-repeat bg-center rounded-lg relative">
           <div
             className="flex flex-col lg:w-2/3 items-center py-28 px-16 w-full"
             data-aos="zoom-in-up"
